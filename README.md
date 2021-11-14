@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Programming-In-Progress
-- 👀 I’m interested in learning python, SQL and visualisation techniques to help me improve in my career.
+- 👀 I’m interested in learning Python, SQL and visualisation techniques to help me improve in my career.
 - 🌱 I’m currently learning Python and the basics of Data Analysis.
 
 
